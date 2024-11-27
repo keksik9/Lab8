@@ -42,5 +42,5 @@
 
 4. Запустите приложение с помощью Uvicorn:
     ```bash
-       python bot.py
+       python script.py
     ```
